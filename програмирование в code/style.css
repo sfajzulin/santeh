@@ -1,0 +1,36 @@
+@import url();
+
+body {
+    padding: 0;
+    margin: 0 ;
+    font-family: 'robboto', sans seif ;
+}
+
+h1,h2,h3,h4 {
+    padding: 0;
+    margin: 0;
+    font-family: 'jacques Francois Shadow', serif ;
+}
+
+header {
+    background-color: black;
+}
+
+.logo {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.logoimg {
+    padding-right: 10px;
+}
+
+ul { 
+    display: dlex;
+    align-items: center;
+}
+
+footer {
+    background-color:grey;
+}
